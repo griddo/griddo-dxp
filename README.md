@@ -5,7 +5,20 @@
 **Griddo** is a no-code **Digital Experience Platform (DXP)** designed exclusively for higher education institutions. Built on a **MACH (Microservices, API, Cloud, Headless)** architecture, Griddo empowers universities to manage digital assets, create websites, and publish content with unparalleled ease and efficiency. Deployed in the Edge, it's serverless infrastructure offers maximun security and performance.
 
 
-Trusted by leading institutions like [IE University](https://ie.edu), [Universidad Europea](https://universidadeuropea.com), [Universidad Pontificia de Comillas](https://comillas.edu) or [CUNEF](https://cunef.edu) Griddo streamlines content management, enhances brand consistency, and reduces time to market by up to 50%.
+Trusted by leading private Universities like:
+- [IE University](https://ie.edu)
+- [Universidad Europea](https://universidadeuropea.com) 
+- [Universidad Pontificia de Comillas](https://comillas.edu)
+- [CUNEF](https://cunef.edu) 
+- [Universidad Católica del Maule](https://)
+- [IPAM](https://www.ipam.pt)
+- [IADE](https://www.iade.europeia.pt)
+- [Centro de Estudios Garrigues](https://www.centrogarrigues.com/)
+
+Griddo streamlines content management, enhances brand consistency, and reduces time to market by up to 50%, and speeds up the steps from content to publication by x10.
+
+> "Griddo is allowing us to publish at a rate I couldn't imagine. Compared to our previous Wordpress, we are publishing programs x10 faster."
+> - Pablo Landaluce, Communications Manager @ CUNEF Universidad
 
 This repository hosts resources, documentation, and examples related to Griddo’s capabilities for higher education CMS needs.
 
@@ -83,7 +96,7 @@ With Griddo Live Preview you don´t fit the content to a predefined template, yo
 - **Integration Flexibility**: Connects with existing tools in the marketing stack (e.g., Hotjar, Google Analytics, Maps) to streamline workflows.
 
 > "Griddo’s framework is fast, flexible, and secure, offering optimal performance for SEO and load times."  
-> — Alejandro Alonso, Universidad Europea
+> — Alejandro Alonso, Head of SEO @ Universidad Europea
 
 ## How It Works
 
