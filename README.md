@@ -34,7 +34,7 @@ This repository hosts resources, documentation, and examples related to Griddo�
 
 ## Why Griddo?
 
-Griddo is purpoed-made for universities and educational institutions seeking a modern, user-friendly platform to manage multiple websites, landing pages, and events. Griddo's no-code interface, AI-driven tools, and modular design make it ideal for cross-functional teams, including marketing, content, communications, and research without requiring programming expertise. Griddo's extremely easy-to-use editor provides a fantastic and intuitive Author Experience. Griddo’s MACH architecture ensures scalability, security, and high performance, making it a robust choice for institutions of all sizes.
+Griddo is purposed-made for universities and educational institutions seeking a modern, user-friendly platform to manage multiple websites, landing pages, and events. Griddo's no-code interface, AI-driven tools, and modular design make it ideal for cross-functional teams, including marketing, content, communications, and research without requiring programming expertise. Griddo's extremely easy-to-use editor provides a fantastic and intuitive Author Experience. Griddo’s MACH architecture ensures scalability, security, and high performance, making it a robust choice for institutions of all sizes.
 
 Additionally, Griddo is the only DXP with a fully brand-tailored Design System at its heart, which guarantees that all content created with Griddo will adhere to the university's visual identity.
 
@@ -72,7 +72,8 @@ Additionally, Griddo is the only DXP with a fully brand-tailored Design System a
 
 ### Featuring:
 - **Griddo Live Preview**
-With Griddo Live Preview you won't fit the content to a predefined template, you craft the new page. The page builder has been streamlined to provide an excelent Author Experience. Pages take their final as you edit them, without the need to publish or upload to a test environment.
+From a blank canvas to a live page, design and publish your content seamlessly with Griddo's intuitive Live Preview editor, offering a true 'what you see is what you get' experience. No need to publish or upload to a test environment anymore. With Griddo Live Preview, streamlined to provide an excelent Author Experience, you won't fit the content to a predefined template, you'll craft the new page to shape your story. 
+    - Modular approach: easily drag and drop modules
     - Check the results in any predefined breakpoint
     - Share the progress with a quick-link
     - Validate that the SEO structure is right
@@ -87,6 +88,13 @@ With Griddo Live Preview you won't fit the content to a predefined template, you
     - Smart search over all the content of the web ecosystem
     - Personalize the results
     - Personalize the SERP with AI overviews
+
+- **Griddo Design System**
+    - Fully customizable 
+    - Parametrized tokens for University visual brand guidelines
+    - Themes to adapt to any brand structure
+    - Adaptive modules with rich variants
+
 
 ## Benefits for Higher Education
 
