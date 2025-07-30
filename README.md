@@ -1,9 +1,13 @@
-# Griddo: Digital Experience Platform for Higher Education
+# Griddo is the Digital Experience Platform for Higher Education
 
 ![Griddo Logo](https://griddo.io/images/logo-for-github.png)
 
-**Griddo** is a no-code **Digital Experience Platform (DXP)** designed exclusively for higher education institutions. Built on a **MACH (Microservices, API, Cloud, Headless)** architecture, Griddo empowers universities to manage digital assets, create websites, and publish content with unparalleled ease and efficiency. Deployed in the Edge, it's serverless infrastructure offers maximun security and performance.
+**Griddo** is a no-code **Digital Experience Platform (DXP)** designed exclusively for Universities. Built on a **MACH (Microservices, API, Cloud, Headless)** architecture, Griddo empowers universities to manage digital assets, create websites, and publish content with unparalleled ease and efficiency. Deployed in the Edge, it's serverless infrastructure offers maximun security and performance.
 
+Griddo streamlines content management, enhances brand consistency, and reduces time to market by up to 50%, and speeds up the steps from content to publication by x10.
+
+> "Griddo is allowing us to publish at a rate I couldn't imagine. Compared to our previous Wordpress, we are publishing programs x10 faster."
+> — Pablo Landaluce, Communications Manager @ CUNEF Universidad
 
 Trusted by leading private Universities like:
 - [IE University](https://ie.edu)
@@ -15,12 +19,9 @@ Trusted by leading private Universities like:
 - [IADE](https://www.iade.europeia.pt)
 - [Centro de Estudios Garrigues](https://www.centrogarrigues.com/)
 
-Griddo streamlines content management, enhances brand consistency, and reduces time to market by up to 50%, and speeds up the steps from content to publication by x10.
 
-> "Griddo is allowing us to publish at a rate I couldn't imagine. Compared to our previous Wordpress, we are publishing programs x10 faster."
-> - Pablo Landaluce, Communications Manager @ CUNEF Universidad
 
-This repository hosts resources, documentation, and examples related to Griddo’s capabilities for higher education CMS needs.
+This repository hosts resources, documentation, and examples related to Griddo’s capabilities for higher education institutions wanting to craft outstanding digital experiences.
 
 ## Table of Contents
 - [Why Griddo?](#why-griddo)
@@ -33,11 +34,11 @@ This repository hosts resources, documentation, and examples related to Griddo�
 
 ## Why Griddo?
 
-Griddo is purpoed-made for universities and educational institutions seeking a modern, user-friendly platform to manage multiple websites, landing pages, and events. Griddo's no-code interface, AI-driven tools, and modular design make it ideal for cross-functional teams, including marketing, content, and design, without requiring programming expertise. Griddo’s MACH architecture ensures scalability, security, and high performance, making it a robust choice for institutions of all sizes.
+Griddo is purpoed-made for universities and educational institutions seeking a modern, user-friendly platform to manage multiple websites, landing pages, and events. Griddo's no-code interface, AI-driven tools, and modular design make it ideal for cross-functional teams, including marketing, content, communications, and research without requiring programming expertise. Griddo's extremely easy-to-use editor provides a fantastic and intuitive Author Experience. Griddo’s MACH architecture ensures scalability, security, and high performance, making it a robust choice for institutions of all sizes.
 
 Additionally, Griddo is the only DXP with a fully brand-tailored Design System at its heart, which guarantees that all content created with Griddo will adhere to the university's visual identity.
 
-> "Griddo is an extremally intuitive platform that allows us to scale our many web projects easily. Its modular structure gives us absolute autonomy to manage digital assets."  
+> "Griddo is very intuitive platform that allows us to scale our many web projects easily. Its modular structure gives us absolute autonomy to manage digital assets."  
 > — Sara Hontoria, Centro de Estudios Garrigues
 
 ## Key Features
@@ -68,16 +69,17 @@ Additionally, Griddo is the only DXP with a fully brand-tailored Design System a
         - Salesforce CRM
         - Zoho CRM
         - MS Dynamics
+
 ### Featuring:
 - **Griddo Live Preview**
-With Griddo Live Preview you don´t fit the content to a predefined template, you craft the new page. And you can see the results as you work and iterate the content in the editor.
+With Griddo Live Preview you won't fit the content to a predefined template, you craft the new page. The page builder has been streamlined to provide an excelent Author Experience. Pages take their final as you edit them, without the need to publish or upload to a test environment.
     - Check the results in any predefined breakpoint
     - Share the progress with a quick-link
     - Validate that the SEO structure is right
     - Check everythng is ready to publish in the **Error Panel**
 
 - **Griddo Form Builder**   
-    - Create Forms right form the editor
+    - Create Forms with the data fields you need, right form the editor
     - Add Form to any webpage
     - Connect with the CRM or a Google Sheet
 
