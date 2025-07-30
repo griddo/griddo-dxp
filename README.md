@@ -35,7 +35,7 @@ Additionally, Griddo is the only DXP with a fully brand-tailored Design System a
   - Automatic image tagging
   - SEO meta tag generation
   - Multilingual translations
-  - Content personalization with Griddo PErsonal Experience
+  - Content personalization with Griddo Personal Experience (GPX)
 - **Multi-Site Management**: Centralize control of multiple websites, landing pages,news, events, and faculty profiles with content reuse capabilities. Structure all your marketing campaing in one interface.
 - **MACH Architecture**:
   - Microservices: Modular components for flexibility.
@@ -50,6 +50,28 @@ Additionally, Griddo is the only DXP with a fully brand-tailored Design System a
 - **SEO and Performance**: Generates bot-readable static HTML, optimizes load times, and achieves top Core Web Vitals scores.
 - **Role-Based Collaboration**: Assign permissions for SEO, analytics, content, and design teams, with traceability for external collaborators.
 - **Digital Asset Management**: Griddo Images optimizes media handling for efficient content workflows.
+- **Integrations**: Griddo can be integrated with any system in the university, SIS, CRMs or ERPs
+    - **CRM**
+        - Salesforce CRM
+        - Zoho CRM
+        - MS Dynamics
+### Featuring:
+- **Griddo Live Preview**
+With Griddo Live Preview you don´t fit the content to a predefined template, you craft the new page. And you can see the results as you work and iterate the content in the editor.
+    - Check the results in any predefined breakpoint
+    - Share the progress with a quick-link
+    - Validate that the SEO structure is right
+    - Check everythng is ready to publish in the **Error Panel**
+
+- **Griddo Form Builder**   
+    - Create Forms right form the editor
+    - Add Form to any webpage
+    - Connect with the CRM or a Google Sheet
+
+- **Griddo AI Serch**     
+    - Smart search over all the content of the web ecosystem
+    - Personalize the results
+    - Personalize the SERP with AI overviews
 
 ## Benefits for Higher Education
 
@@ -58,7 +80,7 @@ Additionally, Griddo is the only DXP with a fully brand-tailored Design System a
 - **Team Autonomy**: Empowers non-technical teams to create and update content without IT bottlenecks.
 - **Scalability**: Supports 93+ websites and 68,000+ pages, as used by 13 institutions and 519 active users.
 - **SEO Excellence**: AI-driven SEO tools and fast load times improve search rankings and user experience.
-- **Integration Flexibility**: Connects with existing tools (e.g., Hotjar, Google Maps) to streamline workflows.
+- **Integration Flexibility**: Connects with existing tools in the marketing stack (e.g., Hotjar, Google Analytics, Maps) to streamline workflows.
 
 > "Griddo’s framework is fast, flexible, and secure, offering optimal performance for SEO and load times."  
 > — Alejandro Alonso, Universidad Europea
